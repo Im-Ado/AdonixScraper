@@ -1,0 +1,13 @@
+{
+  "name": "@Im-Ado/AdonixScraper",
+  "version": "1.0.7",
+  "description": "🔥 Módulo para descargar videos o audios de YouTube fácilmente usando dos APIs secretas",
+  "main": "index.js",
+  "type": "module",
+  "keywords": ["youtube", "yt", "descargar", "mp3", "mp4", "ytb", "npm"],
+  "author": "Im-Ado",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
